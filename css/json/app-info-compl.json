@@ -1,0 +1,23 @@
+[
+    {
+        "cardTitle": "Compl App 1",
+        "cardSubtitle": "go app1",
+        "cardImgTop": "./images/stock_images/bw_guitars.webp",
+        "cardText": "This is a description about Compl App 1.",
+        "cardCat": "compl1"
+    },
+    {
+        "cardTitle": "Compl App 2",
+        "cardSubtitle": "go app2",
+        "cardImgTop": "./images/stock_images/c_flamingoes.webp",
+        "cardText": "This is a description about Compl App 2.",
+        "cardCat": "compl1"
+    },
+    {
+        "cardTitle": "Compl App 3",
+        "cardSubtitle": "go app3",
+        "cardImgTop": "./images/stock_images/c_flamingoes.webp",
+        "cardText": "This is a description about Compl App 3.",
+        "cardCat": "compl1"
+    }
+]

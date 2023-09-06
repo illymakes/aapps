@@ -1,0 +1,23 @@
+[
+    {
+        "cardTitle": "Rese App 1",
+        "cardSubtitle": "go app1",
+        "cardImgTop": "./images/stock_images/bw_guitars.webp",
+        "cardText": "This is a description about Rese App 1.",
+        "cardCat": "rese1"
+    },
+    {
+        "cardTitle": "Rese App 2",
+        "cardSubtitle": "go app2",
+        "cardImgTop": "./images/stock_images/c_flamingoes.webp",
+        "cardText": "This is a description about Rese App 2.",
+        "cardCat": "rese1"
+    },
+    {
+        "cardTitle": "Rese App 3",
+        "cardSubtitle": "go app3",
+        "cardImgTop": "./images/stock_images/c_flamingoes.webp",
+        "cardText": "This is a description about Rese App 3.",
+        "cardCat": "rese1"
+    }
+]
