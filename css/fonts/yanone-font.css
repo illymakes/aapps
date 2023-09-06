@@ -2,5 +2,5 @@
     font-family: 'Yanone';
     font-style: normal;
     font-weight: 400;
-    src: local('Yanone Kaffeesatz Regular'), local('YanoneKaffeesatz-Regular'), url(yanone.ttf) format ('truetype');
+    src: local('Yanone'), local('Yanone'), url(/css/fonts/Yanone.ttf) format('opentype');
 }

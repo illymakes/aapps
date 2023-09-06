@@ -15,8 +15,8 @@ document.addEventListener("DOMContentLoaded", function () {
     async function updateCards(category) {
         cardContainer.innerHTML = ""; //clears existing cards
 
-        await fetchAndDisplayCards("json/app-info-compl.json", category);
-        await fetchandDisplayCards("json/app-info-rese.json", category);
+        await fetchAndDisplayCards("/json/app-info-compl.json", category);
+        await fetchAndDisplayCards("/json/app-info-rese.json", category);
         //will add the rest later
     
     }

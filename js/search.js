@@ -1,6 +1,6 @@
 const searchInput = document.getElementById('searchInput');
 const customResultsContainer = document.getElementById('customResultsContainer');
-const jsonFiles = ['json/app-info-compl.json', 'json/app-info-rese.json'];
+const jsonFiles = ['/json/app-info-compl.json', '/json/app-info-rese.json'];
 
 //trying link listener stuff to clear search results when link is clicked
 const categoryLinks = document.querySelectorAll(".category-link");
@@ -72,7 +72,7 @@ function displayResults(results) {
         `;
         const cardElement = document.createElement('div');
         cardElement.innerHTML = cardTemplate.trim(); //remove any extra whitespace
-        customResultsContainer.appendChild(cardElement.firstchild); //append the card content
+        customResultsContainer.appendChild(cardElement.firstChild); //append the card content
     });
 };
 

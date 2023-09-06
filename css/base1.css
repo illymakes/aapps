@@ -146,10 +146,12 @@ details summary::-webkit-details-marker {
     padding: 5px;
     text-align: left;
     font-size: small;
+    font-family: "Yanone";
     float: left;
 }
 
 .declass-text {
+    font-family: "Yanone";
     padding: 5px;
     text-align: right;
     font-size: small;
