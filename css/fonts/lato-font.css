@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Lato Hairline';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Lato Hairline'), local('Lato-Hairline'), url(Lato-Hairline.ttf) format ('truetype');
+}
+
+@font-face {
+    font-family: 'Lato Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato Regular'), local('Lato-Hairline'), url(Lato-Regular.ttf) format ('truetype');
+}
+
+@font-face {
+    font-family: 'Lato Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Lato Bold'), local('Lato-Bold'), url(Lato-Bold.ttf) format ('truetype');
+}
+
+@font-face {
+    font-family: 'Lato Black';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Lato Black'), local('Lato-Black'), url(Lato-Black.ttf) format ('truetype');
+}
+
+@font-face {
+    font-family: 'Lato Hairline Italic';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Lato Hairline Italic'), local('Lato-Hairline'), url(Lato-Hairline-Italic.ttf) format ('truetype');
+}
