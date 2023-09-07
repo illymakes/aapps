@@ -4528,10 +4528,11 @@ textarea.form-control-lg {
   transition: all 0.4s;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  max-width: 15rem;
-  margin: 8px;
+  justify-content: space-between;
+  max-width: 240px;
+  max-height: 420px;
   min-width: 0;
+  min-height: 100%;
   word-wrap: break-word;
   background-color: var(--bs-gray-800);
   background-clip: border-box;
@@ -4564,8 +4565,12 @@ textarea.form-control-lg {
 }
 
 .card-body {
+  display: flex;
+  flex-wrap: wrap;
   flex: 1 1 auto;
   padding: 1rem 1rem;
+  justify-content: space-between;
+  font-size: 100%;
 }
 
 .card-title {
@@ -4635,8 +4640,7 @@ textarea.form-control-lg {
 .card-img,
 .card-img-top,
 .card-img-bottom {
-  width: 226px;
-  height: 152px;
+  width: 100%;
   object-fit: cover;
   border-radius: 2px;
 
@@ -4657,6 +4661,17 @@ textarea.form-control-lg {
 .card-group > .card {
   margin-bottom: 0.75rem;
 }
+
+@media (max-width: 904px) {
+  .card-text {
+    font-size: 14px;
+  }
+
+  .btn-primary {
+    font-size: 12px;
+  }
+}
+
 @media (min-width: 576px) {
   .card-group {
     display: flex;
@@ -11472,5 +11487,20 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
     display: flex;
     flex-wrap: wrap;
   }
+
+/* #cardContainer {
+    display: contents; //do not enable this it will break the grid
+} */
+
+#customResultsContainer {
+  display: none;
+}
+
+.results-grid {
+  display:flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: flex-start;
+}
 
 }
