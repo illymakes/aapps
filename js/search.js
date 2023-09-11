@@ -33,7 +33,7 @@ async function handleSearch() {
         const filteredResults = allResults.flat();
 
         //shows the results container and display the search results
-        customResultsContainer.style.display = 'block';
+        customResultsContainer.style.display = 'flex';
 
         // hgide the cardContainer whenever search results are displayed
         cardContainerHider.style.display = 'none';

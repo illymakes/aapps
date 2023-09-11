@@ -166,17 +166,22 @@ details summary::-webkit-details-marker {
 
 #cardContainer {
     display: none; /*this will change to flex when cards.js does its thing */
+    flex-wrap: wrap;
     flex-direction: row;
     justify-content: flex-start;
 }
 
 #customResultsContainer {
     display: none;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 20px;
 }
 
 .results-grid {
     display:flex;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 8px;
     justify-content: flex-start;
 }

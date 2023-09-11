@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 //check if the cardCat field in the JSON contains the desired category
                 if (item.cardCat === category) {
                     const card = document.createElement("div");
-                    card.className = "col-sm-3 mb-4";
+                    // card.className = "col-sm-3 mb-4";
                     card.innerHTML =
                     `
                     <div class="card card-hover">
