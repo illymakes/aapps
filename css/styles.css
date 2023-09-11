@@ -4662,7 +4662,7 @@ textarea.form-control-lg {
   margin-bottom: 0.75rem;
 }
 
-@media (max-width: 904px) {
+@media (max-width: 1106px) {
   .card-text {
     font-size: 14px;
   }
