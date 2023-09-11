@@ -164,9 +164,11 @@ details summary::-webkit-details-marker {
     align-content: center;
 }
 
-/* #cardContainer {
-    display: contents; //do not enable this it will break the grid
-} */
+#cardContainer {
+    display: none; /*this will change to flex when cards.js does its thing */
+    flex-direction: row;
+    justify-content: flex-start;
+}
 
 #customResultsContainer {
     display: none;

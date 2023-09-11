@@ -1,12 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const categoryLinks = document.querySelectorAll(".category-link");
 
-    // const complButton = document.getElementByID("complButton1");
-    //const reseButton = document.getElementByID("reseButton1");
     const cardContainer = document.getElementById("cardContainer");
-
-    //complButton.addEventListener("click", () => updateCards("category1"));
-    //reseButton.addEventListener("click", () => updateCards("category2"));
 
     categoryLinks.forEach(link => {
         link.addEventListener("click", () => updateCards(link.getAttribute("data-category")));
@@ -30,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 //check if the cardCat field in the JSON contains the desired category
                 if (item.cardCat === category) {
                     const card = document.createElement("div");
-                    card.className = "col-md-4 mb-4";
+                    card.className = "col-sm-3 mb-4";
                     card.innerHTML =
                     `
                     <div class="card card-hover">
