@@ -185,3 +185,7 @@ details summary::-webkit-details-marker {
     gap: 8px;
     justify-content: flex-start;
 }
+
+.card-text {
+    font-size: 14px;
+}
