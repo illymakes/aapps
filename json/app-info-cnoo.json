@@ -1,44 +1,52 @@
 [
     {
-        "cardTitle": "Compl App 1",
+        "cardTitle": "Cnoo App 1",
         "cardSubtitle": "go app1",
         "cardImgTop": "./images/stock_images/bw_turtle.webp",
         "cardText": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "cardCat": "compl1"
+        "cardCat": "cnoo1"
     },
     {
-        "cardTitle": "Compl App 2",
+        "cardTitle": "Cnoo App 2",
         "cardSubtitle": "go app2",
         "cardImgTop": "./images/stock_images/c_camera.webp",
         "cardText": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "cardCat": "compl1"
+        "cardCat": "cnoo1"
     },
     {
-        "cardTitle": "Compl App 3",
+        "cardTitle": "Cnoo App 3",
         "cardSubtitle": "go app3",
         "cardImgTop": "./images/stock_images/bw_plant.webp",
         "cardText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "cardCat": "compl1"
+        "cardCat": "cnoo1"
     },
     {
-        "cardTitle": "Compl App 4",
+        "cardTitle": "Cnoo App 4",
         "cardSubtitle": "go app4",
-        "cardImgTop": "./images/stock_images/bw_whale.webp",
-        "cardText": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "cardCat": "compl1"
+        "cardImgTop": "./images/stock_images/c_goats.webp",
+        "cardText": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "cardCat": "cnoo1"
     },
+    
     {
-        "cardTitle": "Compl App 5",
+        "cardTitle": "Cnoo App 5",
         "cardSubtitle": "go app5",
         "cardImgTop": "./images/stock_images/c_person_dog.webp",
         "cardText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "cardCat": "compl1"
+        "cardCat": "cnoo1"
     },
     {
-        "cardTitle": "Compl App 6",
+        "cardTitle": "Cnoo App 6",
         "cardSubtitle": "go app6",
-        "cardImgTop": "./images/stock_images/c_goats.webp",
-        "cardText": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "cardCat": "compl1"
+        "cardImgTop": "./images/stock_images/bw_whale.webp",
+        "cardText": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "cardCat": "cnoo1"
+    },
+    {
+        "cardTitle": "Cnoo App 7",
+        "cardSubtitle": "go app7",
+        "cardImgTop": "./images/stock_images/bw_person3.webp",
+        "cardText": "Ut irure dolor in reprehenderit in voluptate velit esse cillum dolore aliquip ex ea commodo consequat.",
+        "cardCat": "cnoo1"
     }
 ]

@@ -3,21 +3,28 @@
         "cardTitle": "Rese App 1",
         "cardSubtitle": "go app1",
         "cardImgTop": "./images/stock_images/bw_guitars.webp",
-        "cardText": "This is a description about Rese App 1.",
+        "cardText": "Eget dolor morbi non arcu risus quis. Aliquam sem et tortor consequat id sit amet facilisis magna.",
         "cardCat": "rese1"
     },
     {
         "cardTitle": "Rese App 2",
         "cardSubtitle": "go app2",
         "cardImgTop": "./images/stock_images/c_flamingoes.webp",
-        "cardText": "This is a description about Rese App 2.",
+        "cardText": "Velit ut tortor pretium viverra suspendisse potenti nullam. Ornare lectus sit amet est placerat.",
         "cardCat": "rese1"
     },
     {
         "cardTitle": "Rese App 3",
         "cardSubtitle": "go app3",
-        "cardImgTop": "./images/stock_images/c_flamingoes.webp",
-        "cardText": "This is a description about Rese App 3.",
+        "cardImgTop": "./images/stock_images/c_deer.webp",
+        "cardText": "Mattis enim ut tellus elementum sagittis vitae et leo. Quisque egestas diam in arcu cursus euismod quis.",
+        "cardCat": "rese1"
+    },
+    {
+        "cardTitle": "Rese App 4",
+        "cardSubtitle": "go app4",
+        "cardImgTop": "./images/stock_images/c_house1.webp",
+        "cardText": "Tellus in metus vulputate eu scelerisque felis imperdiet. Facilisi morbi tempus iaculis urna id volutpat.",
         "cardCat": "rese1"
     }
 ]

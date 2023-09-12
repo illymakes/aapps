@@ -1,0 +1,86 @@
+[
+    {
+        "cardTitle": "Que App 1",
+        "cardSubtitle": "go app1",
+        "cardImgTop": "./images/stock_images/bw_violinist.webp",
+        "cardText": "Integer quis auctor elit sed vulputate mi sit amet mauris. Ipsum dolor sit amet consectetur.",
+        "cardCat": "que1"
+    },
+    {
+        "cardTitle": "Que App 2",
+        "cardSubtitle": "go app2",
+        "cardImgTop": "./images/stock_images/c_calf.webp",
+        "cardText": "Quisque egestas diam in arcu cursus euismod quis. Tellus in metus vulputate eu scelerisque felis imperdiet.",
+        "cardCat": "que1"
+    },
+    {
+        "cardTitle": "Que App 3",
+        "cardSubtitle": "go app3",
+        "cardImgTop": "./images/stock_images/bw_whale.webp",
+        "cardText": "Et leo duis ut diam quam nulla porttitor massa. Vulputate sapien nec sagittis aliquam malesuada.",
+        "cardCat": "que1"
+    },
+    {
+        "cardTitle": "Que App 4",
+        "cardSubtitle": "go app4",
+        "cardImgTop": "./images/stock_images/c_drumline.webp",
+        "cardText": "Non quam lacus suspendisse faucibus interdum posuere lorem. Justo eget magna fermentum iaculis.",
+        "cardCat": "que1"
+    },
+    {
+        "cardTitle": "Que App 5",
+        "cardSubtitle": "go app5",
+        "cardImgTop": "./images/stock_images/c_parrot.webp",
+        "cardText": "Molestie at elementum eu facilisis sed. Amet nisl purus in mollis nunc sed id semper lacus luctus accumsan tortor.",
+        "cardCat": "que1"
+    },
+    {
+        "cardTitle": "Que App 6",
+        "cardSubtitle": "go app6",
+        "cardImgTop": "./images/stock_images/c_pig.webp",
+        "cardText": "Enim nunc faucibus a pellentesque sit amet porttitor eget. Dui faucibus in ornare quam viverra.",
+        "cardCat": "que1"
+    },
+    {
+        "cardTitle": "Que App 7",
+        "cardSubtitle": "go app7",
+        "cardImgTop": "./images/stock_images/bw_person4.webp",
+        "cardText": "Ut faucibus pulvinar elementum integer. Ut tortor pretium viverra suspendisse potentium viverra suspendisse.",
+        "cardCat": "que1"
+    },
+    {
+        "cardTitle": "Que App 8",
+        "cardSubtitle": "go app8",
+        "cardImgTop": "./images/stock_images/bw_penguin.webp",
+        "cardText": "Elit sed vulputate mi sit amet mauris commodo quis. Eu consequat ac felis donec et odio quam viverra.",
+        "cardCat": "que1"
+    },
+    {
+        "cardTitle": "Que App 9",
+        "cardSubtitle": "go app9",
+        "cardImgTop": "./images/stock_images/c_clock.webp",
+        "cardText": "Viverra justo nec ultrices dui sapien eget mi. Mattis aliquam faucibus purus in massa tempor.",
+        "cardCat": "que1"
+    },
+    {
+        "cardTitle": "Que App 10",
+        "cardSubtitle": "go app10",
+        "cardImgTop": "./images/stock_images/c_guitar_drums.webp",
+        "cardText": "Amet consectetur adipiscing elit duis tristique. Dictumst vestibulum rhoncus est pellentesque elit.",
+        "cardCat": "que1"
+    },
+    {
+        "cardTitle": "Que App 11",
+        "cardSubtitle": "go app11",
+        "cardImgTop": "./images/stock_images/c_mountains.webp",
+        "cardText": "Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Habitasse platea dictumst quisque.",
+        "cardCat": "que1"
+    },
+    {
+        "cardTitle": "Que App 12",
+        "cardSubtitle": "go app12",
+        "cardImgTop": "./images/stock_images/c_hands_piano.webp",
+        "cardText": "Elementum nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Felis donec et odio pellentesque.",
+        "cardCat": "que1"
+    }
+]

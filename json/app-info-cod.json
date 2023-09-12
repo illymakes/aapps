@@ -1,0 +1,73 @@
+[
+    {
+        "cardTitle": "Cod App 1",
+        "cardSubtitle": "go app1",
+        "cardImgTop": "./images/stock_images/bw_turtle.webp",
+        "cardText": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "cardCat": "cod1"
+    },
+    {
+        "cardTitle": "Cod App 2",
+        "cardSubtitle": "go app2",
+        "cardImgTop": "./images/stock_images/c_camera.webp",
+        "cardText": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "cardCat": "cod1"
+    },
+    {
+        "cardTitle": "Cod App 3",
+        "cardSubtitle": "go app3",
+        "cardImgTop": "./images/stock_images/bw_plant.webp",
+        "cardText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "cardCat": "cod1"
+    },
+    {
+        "cardTitle": "Cod App 4",
+        "cardSubtitle": "go app4",
+        "cardImgTop": "./images/stock_images/c_goats.webp",
+        "cardText": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "cardCat": "cod1"
+    },
+    
+    {
+        "cardTitle": "Cod App 5",
+        "cardSubtitle": "go app5",
+        "cardImgTop": "./images/stock_images/c_person_dog.webp",
+        "cardText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "cardCat": "cod1"
+    },
+    {
+        "cardTitle": "Cod App 6",
+        "cardSubtitle": "go app6",
+        "cardImgTop": "./images/stock_images/bw_whale.webp",
+        "cardText": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "cardCat": "cod1"
+    },
+    {
+        "cardTitle": "Cod App 7",
+        "cardSubtitle": "go app7",
+        "cardImgTop": "./images/stock_images/bw_person3.webp",
+        "cardText": "Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congueoluptate velit esse cillum dolore. ",
+        "cardCat": "cod1"
+    },
+    {
+        "cardTitle": "Cod App 8",
+        "cardSubtitle": "go app8",
+        "cardImgTop": "./images/stock_images/bw_palm_shade.webp",
+        "cardText": "Ut irure dolor in reprehenderit in voluptate velit esse cillum dolore aliquip ex ea commodo consequat.",
+        "cardCat": "cod1"
+    },
+    {
+        "cardTitle": "Cod App 9",
+        "cardSubtitle": "go app9",
+        "cardImgTop": "./images/stock_images/c_clock.webp",
+        "cardText": "Ut irure dolor in reprehenderit in voluptate velit esse cillum dolore aliquip ex ea commodo consequat.",
+        "cardCat": "cod1"
+    },
+    {
+        "cardTitle": "Cod App 10",
+        "cardSubtitle": "go app10",
+        "cardImgTop": "./images/stock_images/c_hands_piano.webp",
+        "cardText": "Sit amet mattis vulputate enim nulla. Nam at lectus urna duismattis vulputate enim nulla aliquet porttitor lacus. ",
+        "cardCat": "cod1"
+    }
+]
