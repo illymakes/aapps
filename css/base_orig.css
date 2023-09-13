@@ -60,7 +60,7 @@ div {
 }
 
 .content:hover .content-overlay {
-    opacity: 1;
+    opacity: 100;
 }
 
 .content-image {
@@ -68,14 +68,15 @@ div {
     height: auto;
 }
 
-/* img {
+img {
     box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
-} */
+}
 
-/* .content-details {
+.content-details {
     position: absolute;
     text-align: center;
+    z-index: 0;
     padding-left: 1em;
     padding-right: 1em;
     width: 100%;
@@ -90,10 +91,10 @@ div {
     transition: all 0.3s ease-in-out 0s;
 }
 
-.content-hover .content-details {
+.content-details: {
     top: 50%;
     left: 50%;
-    opacity: 1;
+    opacity: 100%;
 }
 
 .content-details h3,
@@ -104,7 +105,7 @@ h6 {
     font-weight: 500;
     letter-spacing: 0.10em;
     margin-bottom: 0.5em;
-} */
+}
 
 .outer-title h5 {
     color: rgba(0, 28, 54, 0.884);
@@ -162,10 +163,8 @@ details summary::-webkit-details-marker {
     align-content: center;
 }
 
-#cardContainer {
-    display: contents;
-}
-
-#customResultsContainer {
-    display: none;
+.img-fixer {
+    width: 100%;
+    object-fit: cover;
+    height: 15em!important;
 }
