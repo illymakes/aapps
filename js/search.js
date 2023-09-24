@@ -1,6 +1,6 @@
 const searchInput = document.getElementById('searchInput');
 const customResultsContainer = document.getElementById('customResultsContainer');
-const jsonFiles = ['/json/app-info-compl.json', '/json/app-info-rese.json', '/json/app-info-que.json', '/json/app-info-cnoo.json', '/json/app-info-other.json', '/json/app-info-cod.json', '/json/app-info-tice.json', '/json/app-info-tra.json'];
+const jsonFiles = ['../json/app-info-compl.json', '../json/app-info-rese.json', '../json/app-info-que.json', '../json/app-info-cnoo.json', '../json/app-info-other.json', '../json/app-info-cod.json', '../json/app-info-tice.json', '../json/app-info-tra.json'];
 
 //adding to the search bar input listener to hide the cardContainer when search is used
 const cardContainerHider = document.getElementById('cardContainer');
