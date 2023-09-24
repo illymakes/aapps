@@ -10,14 +10,14 @@ document.addEventListener("DOMContentLoaded", function () {
     async function updateCards(category) {
         cardContainer.innerHTML = ""; //clears existing cards
 
-        await fetchAndDisplayCards("../json/app-info-compl.json", category);
-        await fetchAndDisplayCards("../json/app-info-rese.json", category);
-        await fetchAndDisplayCards("../json/app-info-que.json", category);
-        await fetchAndDisplayCards("../json/app-info-cnoo.json", category);
-        await fetchAndDisplayCards("../json/app-info-other.json", category);
-        await fetchAndDisplayCards("../json/app-info-cod.json", category);
-        await fetchAndDisplayCards("../json/app-info-tice.json", category);
-        await fetchAndDisplayCards("../json/app-info-tra.json", category);
+        await fetchAndDisplayCards("../../json/app-info-compl.json", category);
+        await fetchAndDisplayCards("../../json/app-info-rese.json", category);
+        await fetchAndDisplayCards("../../json/app-info-que.json", category);
+        await fetchAndDisplayCards("../../json/app-info-cnoo.json", category);
+        await fetchAndDisplayCards("../../json/app-info-other.json", category);
+        await fetchAndDisplayCards("../../json/app-info-cod.json", category);
+        await fetchAndDisplayCards("../../json/app-info-tice.json", category);
+        await fetchAndDisplayCards("../../json/app-info-tra.json", category);
         //will add the rest later
     
     }
