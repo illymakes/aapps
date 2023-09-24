@@ -2,5 +2,5 @@
     font-family: 'Yanone';
     font-style: normal;
     font-weight: 400;
-    src: local('Yanone'), local('Yanone'), url(/css/fonts/Yanone.ttf) format('opentype');
+    src: local('Yanone'), local('Yanone'), url(Yanone.ttf) format('opentype');
 }
