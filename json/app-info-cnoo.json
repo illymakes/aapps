@@ -1,52 +1,140 @@
 [
     {
-        "cardTitle": "Cnoo App 1",
-        "cardSubtitle": "go app1",
-        "cardImgTop": "./images/stock_images/bw_turtle.webp",
-        "cardText": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "cardCat": "cnoo1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Adobe Illustrator",
+      "cardText": "Vector graphics editor for creating illustrations.",
+      "cardLink": "https://www.adobe.com/products/illustrator.html",
+      "cardCat": "cnoo1"
     },
     {
-        "cardTitle": "Cnoo App 2",
-        "cardSubtitle": "go app2",
-        "cardImgTop": "./images/stock_images/c_camera.webp",
-        "cardText": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "cardCat": "cnoo1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Procreate",
+      "cardText": "Digital painting app for creating illustrations on iPad.",
+      "cardLink": "https://procreate.art/",
+      "cardCat": "cnoo1"
     },
     {
-        "cardTitle": "Cnoo App 3",
-        "cardSubtitle": "go app3",
-        "cardImgTop": "./images/stock_images/bw_plant.webp",
-        "cardText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "cardCat": "cnoo1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Clip Studio Paint",
+      "cardText": "Digital illustration software for manga, comics, and more.",
+      "cardLink": "https://www.clipstudio.net/en/",
+      "cardCat": "cnoo1"
     },
     {
-        "cardTitle": "Cnoo App 4",
-        "cardSubtitle": "go app4",
-        "cardImgTop": "./images/stock_images/c_goats.webp",
-        "cardText": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "cardCat": "cnoo1"
-    },
-    
-    {
-        "cardTitle": "Cnoo App 5",
-        "cardSubtitle": "go app5",
-        "cardImgTop": "./images/stock_images/c_person_dog.webp",
-        "cardText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "cardCat": "cnoo1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "CorelDRAW",
+      "cardText": "Vector illustration and page layout software.",
+      "cardLink": "https://www.coreldraw.com/",
+      "cardCat": "cnoo1"
     },
     {
-        "cardTitle": "Cnoo App 6",
-        "cardSubtitle": "go app6",
-        "cardImgTop": "./images/stock_images/bw_whale.webp",
-        "cardText": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "cardCat": "cnoo1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Krita",
+      "cardText": "Open-source digital painting software for concept art and illustrations.",
+      "cardLink": "https://krita.org/",
+      "cardCat": "cnoo1"
     },
     {
-        "cardTitle": "Cnoo App 7",
-        "cardSubtitle": "go app7",
-        "cardImgTop": "./images/stock_images/bw_person3.webp",
-        "cardText": "Ut irure dolor in reprehenderit in voluptate velit esse cillum dolore aliquip ex ea commodo consequat.",
-        "cardCat": "cnoo1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Affinity Designer",
+      "cardText": "Vector graphic design software for illustration and UI design.",
+      "cardLink": "https://affinity.serif.com/en-gb/designer/",
+      "cardCat": "cnoo1"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Autodesk SketchBook",
+      "cardText": "Digital drawing and painting software for artists.",
+      "cardLink": "https://www.sketchbook.com/",
+      "cardCat": "cnoo1"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Inkscape",
+      "cardText": "Free and open-source vector graphics editor for illustrations.",
+      "cardLink": "https://inkscape.org/",
+      "cardCat": "cnoo1",
+      "cardCat2": "digital illustration"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "ArtRage",
+      "cardText": "Digital painting software with realistic artistic tools.",
+      "cardLink": "https://www.artrage.com/",
+      "cardCat": "cnoo1",
+      "cardCat2": "digital illustration"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "PaintTool SAI",
+      "cardText": "Digital painting software for creating illustrations and manga.",
+      "cardLink": "https://www.systemax.jp/en/sai/",
+      "cardCat": "cnoo1",
+      "cardCat2": "digital illustration"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "MediBang Paint",
+      "cardText": "Free digital painting and comic creation software.",
+      "cardLink": "https://medibangpaint.com/",
+      "cardCat": "cnoo1",
+      "cardCat2": "digital illustration"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Rebelle",
+      "cardText": "Watercolor and acrylic painting software for realistic illustrations.",
+      "cardLink": "https://www.escapemotions.com/products/rebelle/",
+      "cardCat": "cnoo1",
+      "cardCat2": "digital illustration"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Gravit Designer",
+      "cardText": "Online vector graphic design app for illustrations.",
+      "cardLink": "https://www.designer.io/",
+      "cardCat": "cnoo1",
+      "cardCat2": "digital illustration"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Pencil2D",
+      "cardText": "Open-source animation and drawing software for illustrations.",
+      "cardLink": "https://www.pencil2d.org/",
+      "cardCat": "cnoo1",
+      "cardCat2": "digital illustration"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Vectr",
+      "cardText": "Free vector graphic design software for illustrations.",
+      "cardLink": "https://vectr.com/",
+      "cardCat": "cnoo1",
+      "cardCat2": "digital illustration"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Blender",
+      "cardText": "Open-source 3D content creation suite for illustrations and animations.",
+      "cardLink": "https://www.blender.org/",
+      "cardCat": "cnoo1",
+      "cardCat2": "digital illustration"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "ArtFlow",
+      "cardText": "Digital drawing and painting app for Android tablets.",
+      "cardLink": "https://www.artflowstudio.com/",
+      "cardCat": "cnoo1",
+      "cardCat2": "digital illustration"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "FireAlpaca",
+      "cardText": "Free digital painting software for creating illustrations.",
+      "cardLink": "https://firealpaca.com/",
+      "cardCat": "cnoo1",
+      "cardCat2": "digital illustration"
     }
-]
+  ]
+  

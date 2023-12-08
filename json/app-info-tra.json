@@ -1,44 +1,163 @@
 [
     {
-        "cardTitle": "Tra App 1",
-        "cardSubtitle": "go app1",
-        "cardImgTop": "./images/stock_images/c_glasses_coffee.webp",
-        "cardText": "Eget dolor morbi non arcu risus quis. Aliquam sem et tortor consequat id sit amet facilisis magna.",
-        "cardCat": "tra1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Nielsen Norman Group",
+      "cardText": "Leading UX research and consulting firm.",
+      "cardLink": "https://www.nngroup.com/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
     },
     {
-        "cardTitle": "Tra App 2",
-        "cardSubtitle": "go app2",
-        "cardImgTop": "./images/stock_images/bw_trees.webp",
-        "cardText": "Velit ut tortor pretium viverra suspendisse potenti nullam. Ornare lectus sit amet est placerat.",
-        "cardCat": "tra1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Smashing Magazine",
+      "cardText": "Online magazine for web designers and developers.",
+      "cardLink": "https://www.smashingmagazine.com/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
     },
     {
-        "cardTitle": "Tra App 3",
-        "cardSubtitle": "go app3",
-        "cardImgTop": "./images/stock_images/bw_person4.webp",
-        "cardText": "Mattis enim ut tellus elementum sagittis vitae et leo. Quisque egestas diam in arcu cursus euismod quis.",
-        "cardCat": "tra1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "InVision Blog",
+      "cardText": "Design, prototyping, and collaboration tool blog.",
+      "cardLink": "https://www.invisionapp.com/blog/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
     },
     {
-        "cardTitle": "Tra App 4",
-        "cardSubtitle": "go app4",
-        "cardImgTop": "./images/stock_images/c_mountains.webp",
-        "cardText": "Tellus in metus vulputate eu scelerisque felis imperdiet. Facilisi morbi tempus iaculis urna id volutpat.",
-        "cardCat": "tra1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "A List Apart",
+      "cardText": "Web design and development articles.",
+      "cardLink": "https://alistapart.com/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
     },
     {
-        "cardTitle": "Tra App 5",
-        "cardSubtitle": "go app5",
-        "cardImgTop": "./images/stock_images/c_raccoon.webp",
-        "cardText": "Tellus in metus vulputate eu scelerisque felis imperdiet. Facilisi morbi tempus iaculis urna id volutpat.",
-        "cardCat": "tra1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "UX Design Institute",
+      "cardText": "Online UX design courses and resources.",
+      "cardLink": "https://www.uxdesigninstitute.com/blog/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
     },
     {
-        "cardTitle": "Tra App 6",
-        "cardSubtitle": "go app6",
-        "cardImgTop": "./images/stock_images/c_snowflake.webp",
-        "cardText": "Tellus in metus vulputate eu scelerisque felis imperdiet. Facilisi morbi tempus iaculis urna id volutpat.",
-        "cardCat": "tra1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Usability.gov",
+      "cardText": "Guidelines for designing usable websites.",
+      "cardLink": "https://www.usability.gov/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Dribbble",
+      "cardText": "Show and tell for designers.",
+      "cardLink": "https://dribbble.com/illymakes",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
+    },
+    {
+        "cardImgTop": "/images/placeholder.jpg",
+        "cardTitle": "Behance",
+        "cardText": "Platform by Adobe for showcasing creative work.",
+        "cardLink": "https://www.behance.net/illymakes",
+        "cardCat": "tra1",
+        "cardCat2": "ux"
+      },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "UX Design CC",
+      "cardText": "Curated collection of UX design resources.",
+      "cardLink": "https://uxdesign.cc/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Google Design",
+      "cardText": "Articles and resources from Google's design team.",
+      "cardLink": "https://design.google/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "UX Booth",
+      "cardText": "A publication by and for the user experience community.",
+      "cardLink": "https://www.uxbooth.com/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Marvel Blog",
+      "cardText": "Design and prototyping tips and tutorials.",
+      "cardLink": "https://blog.marvelapp.com/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Boxes and Arrows",
+      "cardText": "Articles on the intersection of design and business.",
+      "cardLink": "http://boxesandarrows.com/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "UX Myths",
+      "cardText": "Busting common myths about UX design.",
+      "cardLink": "https://uxmyths.com/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Crazy Egg Blog",
+      "cardText": "Articles on usability and conversion optimization.",
+      "cardLink": "https://www.crazyegg.com/blog/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Adobe XD Ideas",
+      "cardText": "Inspiration and tutorials for Adobe XD users.",
+      "cardLink": "https://xd.adobe.com/ideas/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "UX Design Institute",
+      "cardText": "Research and insights on UX design.",
+      "cardLink": "https://www.uxmatters.com/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "UX Design Weekly",
+      "cardText": "Handpicked UX design links every week.",
+      "cardLink": "https://uxdesignweekly.com/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "The Usability Geek",
+      "cardText": "Usability and user experience blog.",
+      "cardLink": "https://usabilitygeek.com/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "UX Planet",
+      "cardText": "A publication for the UX design community.",
+      "cardLink": "https://uxplanet.org/",
+      "cardCat": "tra1",
+      "cardCat2": "ux"
     }
-]
+  ]
+  

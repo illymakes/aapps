@@ -1,30 +1,99 @@
 [
     {
-        "cardTitle": "Rese App 1",
-        "cardSubtitle": "go app1",
-        "cardImgTop": "./images/stock_images/bw_guitars.webp",
-        "cardText": "Eget dolor morbi non arcu risus quis. Aliquam sem et tortor consequat id sit amet facilisis magna.",
-        "cardCat": "rese1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Behance",
+      "cardText": "Platform by Adobe for showcasing creative work.",
+      "cardLink": "https://www.behance.net/illymakes",
+      "cardCat": "rese1"
     },
     {
-        "cardTitle": "Rese App 2",
-        "cardSubtitle": "go app2",
-        "cardImgTop": "./images/stock_images/c_flamingoes.webp",
-        "cardText": "Velit ut tortor pretium viverra suspendisse potenti nullam. Ornare lectus sit amet est placerat.",
-        "cardCat": "rese1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Dribbble",
+      "cardText": "Show and tell for designers.",
+      "cardLink": "https://dribbble.com/illymakes",
+      "cardCat": "rese1"
     },
     {
-        "cardTitle": "Rese App 3",
-        "cardSubtitle": "go app3",
-        "cardImgTop": "./images/stock_images/c_deer.webp",
-        "cardText": "Mattis enim ut tellus elementum sagittis vitae et leo. Quisque egestas diam in arcu cursus euismod quis.",
-        "cardCat": "rese1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Awwwards",
+      "cardText": "Website awards recognizing the talent and effort of the best web designers.",
+      "cardLink": "https://www.awwwards.com/",
+      "cardCat": "rese1"
     },
     {
-        "cardTitle": "Rese App 4",
-        "cardSubtitle": "go app4",
-        "cardImgTop": "./images/stock_images/c_house1.webp",
-        "cardText": "Tellus in metus vulputate eu scelerisque felis imperdiet. Facilisi morbi tempus iaculis urna id volutpat.",
-        "cardCat": "rese1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Adobe Portfolio",
+      "cardText": "Create and customize your own portfolio website with Adobe.",
+      "cardLink": "https://portfolio.adobe.com/",
+      "cardCat": "rese1"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Cargo",
+      "cardText": "Platform for creating customizable websites and online portfolios.",
+      "cardLink": "https://cargo.site/",
+      "cardCat": "rese1"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Coroflot",
+      "cardText": "Design and creative job board, showcasing portfolios.",
+      "cardLink": "https://www.coroflot.com/",
+      "cardCat": "rese1"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Designspiration",
+      "cardText": "Visual discovery and design inspiration platform.",
+      "cardLink": "https://www.designspiration.com/",
+      "cardCat": "rese1"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Flickr",
+      "cardText": "Online photo management and sharing platform.",
+      "cardLink": "https://www.flickr.com/",
+      "cardCat": "rese1"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Museo",
+      "cardText": "Online portfolio platform for designers and creatives.",
+      "cardLink": "https://museo.io/",
+      "cardCat": "rese1",
+      "cardCat2": "portfolio"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Portfoliobox",
+      "cardText": "Create a free online portfolio website.",
+      "cardLink": "https://www.portfoliobox.net/",
+      "cardCat": "rese1",
+      "cardCat2": "portfolio"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Format",
+      "cardText": "Portfolio website builder for creatives.",
+      "cardLink": "https://www.format.com/",
+      "cardCat": "rese1",
+      "cardCat2": "portfolio"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Carbonmade",
+      "cardText": "Online portfolio platform for designers and artists.",
+      "cardLink": "https://carbonmade.com/",
+      "cardCat": "rese1",
+      "cardCat2": "portfolio"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Crevado",
+      "cardText": "Build and manage your online portfolio effortlessly.",
+      "cardLink": "https://crevado.com/",
+      "cardCat": "rese1",
+      "cardCat2": "portfolio"
     }
-]
+  ]
+  

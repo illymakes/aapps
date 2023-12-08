@@ -17,9 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
         await fetchAndDisplayCards("json/app-info-other.json", category);
         await fetchAndDisplayCards("json/app-info-cod.json", category);
         await fetchAndDisplayCards("json/app-info-tice.json", category);
-        await fetchAndDisplayCards("json/app-info-tra.json", category);
-        //will add the rest later
-    
+        await fetchAndDisplayCards("json/app-info-tra.json", category);    
     }
 
     async function fetchAndDisplayCards(jsonfile, category) {
@@ -39,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         <h5 class="card-title">${item.cardTitle}</h5>
                         <div class="card-body">
                             <p class="card-text">${item.cardText}</p>
-                            <a href="${item.cardLink}" class="btn btn-primary" align="center">${item.cardSubtitle}</a>
+                            <a href="${item.cardLink}" class="btn btn-primary" align="center">View</a>
                         </div>
                     </div>
                     `;

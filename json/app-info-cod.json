@@ -1,73 +1,117 @@
 [
     {
-        "cardTitle": "Cod App 1",
-        "cardSubtitle": "go app1",
-        "cardImgTop": "./images/stock_images/bw_turtle.webp",
-        "cardText": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "cardCat": "cod1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Adobe Creative Cloud",
+      "cardText": "Access Adobe's suite of graphic design tools.",
+      "cardLink": "https://www.adobe.com/creativecloud.html",
+      "cardCat": "cod1"
     },
     {
-        "cardTitle": "Cod App 2",
-        "cardSubtitle": "go app2",
-        "cardImgTop": "./images/stock_images/c_camera.webp",
-        "cardText": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "cardCat": "cod1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Canva",
+      "cardText": "Graphic design platform with easy-to-use tools and templates.",
+      "cardLink": "https://www.canva.com/",
+      "cardCat": "cod1"
     },
     {
-        "cardTitle": "Cod App 3",
-        "cardSubtitle": "go app3",
-        "cardImgTop": "./images/stock_images/bw_plant.webp",
-        "cardText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "cardCat": "cod1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Dribbble",
+      "cardText": "Show and tell for designers, including graphic designers.",
+      "cardLink": "https://dribbble.com/illymakes",
+      "cardCat": "cod1"
     },
     {
-        "cardTitle": "Cod App 4",
-        "cardSubtitle": "go app4",
-        "cardImgTop": "./images/stock_images/c_goats.webp",
-        "cardText": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-        "cardCat": "cod1"
-    },
-    
-    {
-        "cardTitle": "Cod App 5",
-        "cardSubtitle": "go app5",
-        "cardImgTop": "./images/stock_images/c_person_dog.webp",
-        "cardText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "cardCat": "cod1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Behance",
+      "cardText": "Platform by Adobe for showcasing creative work, including graphic design.",
+      "cardLink": "https://www.behance.net/illymakes",
+      "cardCat": "cod1"
     },
     {
-        "cardTitle": "Cod App 6",
-        "cardSubtitle": "go app6",
-        "cardImgTop": "./images/stock_images/bw_whale.webp",
-        "cardText": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "cardCat": "cod1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Designspiration",
+      "cardText": "Visual discovery and design inspiration platform.",
+      "cardLink": "https://www.designspiration.com/",
+      "cardCat": "cod1"
     },
     {
-        "cardTitle": "Cod App 7",
-        "cardSubtitle": "go app7",
-        "cardImgTop": "./images/stock_images/bw_person3.webp",
-        "cardText": "Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congueoluptate velit esse cillum dolore. ",
-        "cardCat": "cod1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Creative Bloq",
+      "cardText": "Graphic design articles on Creative Bloq.",
+      "cardLink": "https://www.creativebloq.com/graphic-design",
+      "cardCat": "cod1"
     },
     {
-        "cardTitle": "Cod App 8",
-        "cardSubtitle": "go app8",
-        "cardImgTop": "./images/stock_images/bw_palm_shade.webp",
-        "cardText": "Ut irure dolor in reprehenderit in voluptate velit esse cillum dolore aliquip ex ea commodo consequat.",
-        "cardCat": "cod1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "GraphicBurger",
+      "cardText": "High-quality design resources and freebies.",
+      "cardLink": "https://graphicburger.com/",
+      "cardCat": "cod1",
+      "cardCat2": "graphic design"
     },
     {
-        "cardTitle": "Cod App 9",
-        "cardSubtitle": "go app9",
-        "cardImgTop": "./images/stock_images/c_clock.webp",
-        "cardText": "Ut irure dolor in reprehenderit in voluptate velit esse cillum dolore aliquip ex ea commodo consequat.",
-        "cardCat": "cod1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "The Noun Project",
+      "cardText": "Icons for everything, supported by creators worldwide.",
+      "cardLink": "https://thenounproject.com/",
+      "cardCat": "cod1",
+      "cardCat2": "graphic design"
     },
     {
-        "cardTitle": "Cod App 10",
-        "cardSubtitle": "go app10",
-        "cardImgTop": "./images/stock_images/c_hands_piano.webp",
-        "cardText": "Sit amet mattis vulputate enim nulla. Nam at lectus urna duismattis vulputate enim nulla aliquet porttitor lacus. ",
-        "cardCat": "cod1"
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Freepik",
+      "cardText": "Graphic resources, vectors, photos, and free PSD files.",
+      "cardLink": "https://www.freepik.com/",
+      "cardCat": "cod1",
+      "cardCat2": "graphic design"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "GraphicRiver",
+      "cardText": "Design templates, themes, and graphic assets.",
+      "cardLink": "https://graphicriver.net/",
+      "cardCat": "cod1",
+      "cardCat2": "graphic design"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Vecteezy",
+      "cardText": "Vector art, stock photos, and graphics free for download.",
+      "cardLink": "https://www.vecteezy.com/",
+      "cardCat": "cod1",
+      "cardCat2": "graphic design"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Pexels",
+      "cardText": "Free stock photos and videos for graphic design projects.",
+      "cardLink": "https://www.pexels.com/",
+      "cardCat": "cod1",
+      "cardCat2": "graphic design"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Unsplash",
+      "cardText": "High-quality, free images for graphic design and more.",
+      "cardLink": "https://unsplash.com/",
+      "cardCat": "cod1",
+      "cardCat2": "graphic design"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Color Hunt",
+      "cardText": "Curated color palettes for graphic designers.",
+      "cardLink": "https://colorhunt.co/",
+      "cardCat": "cod1",
+      "cardCat2": "graphic design"
+    },
+    {
+      "cardImgTop": "/images/placeholder.jpg",
+      "cardTitle": "Tuts+",
+      "cardText": "Tutorials and courses for graphic design and illustration.",
+      "cardLink": "https://design.tutsplus.com/",
+      "cardCat": "cod1",
+      "cardCat2": "graphic design"
     }
-]
+  ]
+  
