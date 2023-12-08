@@ -48,32 +48,11 @@ async function handleSearch() {
         console.error('Error fetching or parsing JSON: ', error);
     }
 }
-//this stuff will not work properly unless i have an actual node.js server running online like on heroku or something,
-//and it needs proper security so look into that
-const puppeteer = require('puppeteer');
 
 async function fetchAndFilterJSON(jsonFilePath, searchTerm) {
     try {
         const response = await fetch(jsonFilePath);
         const data = await response.json();
-
-        const browser = await puppeteer.launch();
-        const page = await browser.newPage();
-
-        const resultsWithScreenshots = await Promise.all(data.map(async (item) => {
-            const screenshotPath = `screenshots/${item.cardTitle.replace(/[^a-zA-Z0-9]/g, '')}.png`;
-
-            //visit the website and take a screenshot
-            await page.goto(item.cardLink);
-            await page.screenshot({ path: screenshotPath });
-
-            return {
-                ...item,
-                cardScreenshot: screenshotPath,
-            };
-        }));
-
-        await browser.close();
 
         //shows the results container and display the search results
         customResultsContainer.style.display = 'flex';
@@ -85,8 +64,7 @@ async function fetchAndFilterJSON(jsonFilePath, searchTerm) {
         const resultsGrid = document.createElement('div');
         resultsGrid.classList.add('results-grid');
 
-        // const filteredResults = (data || []).filter(item => {
-            const filteredResults = resultsWithScreenshots(item => {
+        const filteredResults = (data || []).filter(item => {
             // Check if the expected properties exist on the item object
             if (item && typeof item === 'object') {
                 const title = (item.cardTitle || '').toLowerCase();
