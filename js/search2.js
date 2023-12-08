@@ -11,6 +11,9 @@ const jsonFiles = [
     '/json/app-info-tra.json'
 ];
 
+//set to store unique card titles
+const displayedTitles = new Set();
+
 //adding to the search bar input listener to hide the cardContainer when search is used
 const cardContainerHider = document.getElementById('cardContainer');
 
@@ -24,6 +27,9 @@ categoryLink.forEach(link => {
         cardContainerHider.style.display = 'flex';
         //clear whatever is typed in the search bar
         searchInput.value = '';
+
+        //clear the set when a new category is clicked
+        displayedTitles.clear();
     });
 });
 
@@ -42,7 +48,6 @@ async function handleSearch() {
         const filteredResults = allResults.flat();
 
         displayResults(filteredResults);
-        console.log('filtered results: ', filteredResults);
 
     } catch (error) {
         console.error('Error fetching or parsing JSON: ', error);

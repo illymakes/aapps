@@ -1,117 +1,109 @@
 [
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Adobe Creative Cloud",
-      "cardText": "Access Adobe's suite of graphic design tools.",
-      "cardLink": "https://www.adobe.com/creativecloud.html",
-      "cardCat": "cod1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Canva",
-      "cardText": "Graphic design platform with easy-to-use tools and templates.",
-      "cardLink": "https://www.canva.com/",
-      "cardCat": "cod1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Dribbble",
-      "cardText": "Show and tell for designers, including graphic designers.",
-      "cardLink": "https://dribbble.com/illymakes",
-      "cardCat": "cod1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Behance",
-      "cardText": "Platform by Adobe for showcasing creative work, including graphic design.",
-      "cardLink": "https://www.behance.net/illymakes",
-      "cardCat": "cod1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Designspiration",
-      "cardText": "Visual discovery and design inspiration platform.",
-      "cardLink": "https://www.designspiration.com/",
-      "cardCat": "cod1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Creative Bloq",
-      "cardText": "Graphic design articles on Creative Bloq.",
-      "cardLink": "https://www.creativebloq.com/graphic-design",
-      "cardCat": "cod1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "GraphicBurger",
-      "cardText": "High-quality design resources and freebies.",
-      "cardLink": "https://graphicburger.com/",
-      "cardCat": "cod1",
-      "cardCat2": "graphic design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "The Noun Project",
-      "cardText": "Icons for everything, supported by creators worldwide.",
-      "cardLink": "https://thenounproject.com/",
-      "cardCat": "cod1",
-      "cardCat2": "graphic design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Freepik",
-      "cardText": "Graphic resources, vectors, photos, and free PSD files.",
-      "cardLink": "https://www.freepik.com/",
-      "cardCat": "cod1",
-      "cardCat2": "graphic design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "GraphicRiver",
-      "cardText": "Design templates, themes, and graphic assets.",
-      "cardLink": "https://graphicriver.net/",
-      "cardCat": "cod1",
-      "cardCat2": "graphic design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Vecteezy",
-      "cardText": "Vector art, stock photos, and graphics free for download.",
-      "cardLink": "https://www.vecteezy.com/",
-      "cardCat": "cod1",
-      "cardCat2": "graphic design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Pexels",
-      "cardText": "Free stock photos and videos for graphic design projects.",
-      "cardLink": "https://www.pexels.com/",
-      "cardCat": "cod1",
-      "cardCat2": "graphic design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Unsplash",
-      "cardText": "High-quality, free images for graphic design and more.",
-      "cardLink": "https://unsplash.com/",
-      "cardCat": "cod1",
-      "cardCat2": "graphic design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Color Hunt",
-      "cardText": "Curated color palettes for graphic designers.",
-      "cardLink": "https://colorhunt.co/",
-      "cardCat": "cod1",
-      "cardCat2": "graphic design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Tuts+",
-      "cardText": "Tutorials and courses for graphic design and illustration.",
-      "cardLink": "https://design.tutsplus.com/",
-      "cardCat": "cod1",
-      "cardCat2": "graphic design"
-    }
-  ]
-  
+  {
+    "cardImgTop": "/images/img/adobe-creative-cloud.png",
+    "cardTitle": "Adobe Creative Cloud",
+    "cardText": "Access Adobe's suite of graphic design tools.",
+    "cardLink": "https://www.adobe.com/creativecloud.html",
+    "cardCat": "cod1"
+  },
+  {
+    "cardImgTop": "/images/img/canva.png",
+    "cardTitle": "Canva",
+    "cardText": "Graphic design platform with easy-to-use tools and templates.",
+    "cardLink": "https://www.canva.com/",
+    "cardCat": "cod1"
+  },
+  {
+    "cardImgTop": "/images/img/dribbble.png",
+    "cardTitle": "Dribbble",
+    "cardText": "Show and tell for designers, including graphic designers.",
+    "cardLink": "https://dribbble.com/illymakes",
+    "cardCat": "cod1"
+  },
+  {
+    "cardImgTop": "/images/img/behance.png",
+    "cardTitle": "Behance",
+    "cardText": "Platform by Adobe for showcasing creative work, including graphic design.",
+    "cardLink": "https://www.behance.net/illymakes",
+    "cardCat": "cod1"
+  },
+  {
+    "cardImgTop": "/images/img/designspiration.jpg",
+    "cardTitle": "Designspiration",
+    "cardText": "Visual discovery and design inspiration platform.",
+    "cardLink": "https://www.designspiration.com/",
+    "cardCat": "cod1"
+  },
+  {
+    "cardImgTop": "/images/img/graphicburger.png",
+    "cardTitle": "GraphicBurger",
+    "cardText": "High-quality design resources and freebies.",
+    "cardLink": "https://graphicburger.com/",
+    "cardCat": "cod1",
+    "cardCat2": "graphic design"
+  },
+  {
+    "cardImgTop": "/images/img/the-noun-project.png",
+    "cardTitle": "The Noun Project",
+    "cardText": "Icons for everything, supported by creators worldwide.",
+    "cardLink": "https://thenounproject.com/",
+    "cardCat": "cod1",
+    "cardCat2": "graphic design"
+  },
+  {
+    "cardImgTop": "/images/img/freepik.png",
+    "cardTitle": "Freepik",
+    "cardText": "Graphic resources, vectors, photos, and free PSD files.",
+    "cardLink": "https://www.freepik.com/",
+    "cardCat": "cod1",
+    "cardCat2": "graphic design"
+  },
+  {
+    "cardImgTop": "/images/img/graphicriver.png",
+    "cardTitle": "GraphicRiver",
+    "cardText": "Design templates, themes, and graphic assets.",
+    "cardLink": "https://graphicriver.net/",
+    "cardCat": "cod1",
+    "cardCat2": "graphic design"
+  },
+  {
+    "cardImgTop": "/images/img/vecteezy.jpg",
+    "cardTitle": "Vecteezy",
+    "cardText": "Vector art, stock photos, and graphics free for download.",
+    "cardLink": "https://www.vecteezy.com/",
+    "cardCat": "cod1",
+    "cardCat2": "graphic design"
+  },
+  {
+    "cardImgTop": "/images/img/pexels.png",
+    "cardTitle": "Pexels",
+    "cardText": "Free stock photos and videos for graphic design projects.",
+    "cardLink": "https://www.pexels.com/",
+    "cardCat": "cod1",
+    "cardCat2": "graphic design"
+  },
+  {
+    "cardImgTop": "/images/img/unsplash.png",
+    "cardTitle": "Unsplash",
+    "cardText": "High-quality, free images for graphic design and more.",
+    "cardLink": "https://unsplash.com/",
+    "cardCat": "cod1",
+    "cardCat2": "graphic design"
+  },
+  {
+    "cardImgTop": "/images/img/color-hunt.png",
+    "cardTitle": "Color Hunt",
+    "cardText": "Curated color palettes for graphic designers.",
+    "cardLink": "https://colorhunt.co/",
+    "cardCat": "cod1",
+    "cardCat2": "graphic design"
+  },
+  {
+    "cardImgTop": "/images/img/tutsplus.png",
+    "cardTitle": "Tuts+",
+    "cardText": "Tutorials and courses for graphic design and illustration.",
+    "cardLink": "https://design.tutsplus.com/",
+    "cardCat": "cod1",
+    "cardCat2": "graphic design"
+  }
+]
