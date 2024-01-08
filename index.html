@@ -20,6 +20,9 @@
 </head>
 
 <body>
+    <div class="mobile-message">
+        Please visit on desktop, not available on mobile devices yet!
+    </div>
     <div class="d-flex" id="wrapper">
         <!--Sidebar-->
         <div class="border-end bg-dark bs-gray-100" id="sidebar-wrapper">
@@ -104,6 +107,19 @@
 
         <script src="js/cards.js"></script>
         <script src="js/search2.js"></script>
+        <script>
+            function checkDevice() {
+                if (window.innerWidth <= 776) {
+                    document.querySelector('.mobile-message').style.display = 'flex';
+                } else {
+                    document.querySelector('.mobile-message').style.display = 'none';
+                }
+            }
+        
+            window.onload = checkDevice;
+            window.onresize = checkDevice;
+        </script>
+        
 </body>
 
 </html>
