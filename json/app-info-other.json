@@ -1,75 +1,74 @@
 [
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Skillshare",
-      "cardText": "Online classes and tutorials on various design topics.",
-      "cardLink": "https://www.skillshare.com/",
-      "cardCat": "other1",
-      "cardCat2": "tutorials"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "LinkedIn Learning",
-      "cardText": "Video tutorials on design, business, technology, and more.",
-      "cardLink": "https://www.linkedin.com/learning/",
-      "cardCat": "other1",
-      "cardCat2": "tutorials"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Udemy",
-      "cardText": "Online learning platform with a variety of design courses.",
-      "cardLink": "https://www.udemy.com/",
-      "cardCat": "other1",
-      "cardCat2": "tutorials"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Envato Tuts+",
-      "cardText": "Tutorials and courses on design, web development, and more.",
-      "cardLink": "https://tutsplus.com/",
-      "cardCat": "other1",
-      "cardCat2": "tutorials"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Coursera",
-      "cardText": "Online courses from universities and organizations around the world.",
-      "cardLink": "https://www.coursera.org/",
-      "cardCat": "other1",
-      "cardCat2": "tutorials"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "CreativeLive",
-      "cardText": "Live online classes in design, photography, and creative skills.",
-      "cardLink": "https://www.creativelive.com/",
-      "cardCat": "other1",
-      "cardCat2": "tutorials"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Pluralsight",
-      "cardText": "Technology-focused design tutorials and courses.",
-      "cardLink": "https://www.pluralsight.com/",
-      "cardCat": "other1",
-      "cardCat2": "tutorials"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Digital Tutors",
-      "cardText": "Design tutorials and training for digital artists.",
-      "cardLink": "https://www.digitaltutors.com/",
-      "cardCat": "other1",
-      "cardCat2": "tutorials"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
-      "cardTitle": "Smashing Magazine",
-      "cardText": "Articles and resources on web design and development.",
-      "cardLink": "https://www.smashingmagazine.com/",
-      "cardCat": "other1",
-      "cardCat2": "tutorials"
-    }
-  ]
-  
+  {
+    "cardImgTop": "images/placeholder.jpg",
+    "cardTitle": "Skillshare",
+    "cardText": "Online classes and tutorials on various design topics.",
+    "cardLink": "https://www.skillshare.com/",
+    "cardCat": "other1",
+    "cardCat2": "tutorials"
+  },
+  {
+    "cardImgTop": "images/placeholder.jpg",
+    "cardTitle": "LinkedIn Learning",
+    "cardText": "Video tutorials on design, business, technology, and more.",
+    "cardLink": "https://www.linkedin.com/learning/",
+    "cardCat": "other1",
+    "cardCat2": "tutorials"
+  },
+  {
+    "cardImgTop": "images/placeholder.jpg",
+    "cardTitle": "Udemy",
+    "cardText": "Online learning platform with a variety of design courses.",
+    "cardLink": "https://www.udemy.com/",
+    "cardCat": "other1",
+    "cardCat2": "tutorials"
+  },
+  {
+    "cardImgTop": "images/placeholder.jpg",
+    "cardTitle": "Envato Tuts+",
+    "cardText": "Tutorials and courses on design, web development, and more.",
+    "cardLink": "https://tutsplus.com/",
+    "cardCat": "other1",
+    "cardCat2": "tutorials"
+  },
+  {
+    "cardImgTop": "images/placeholder.jpg",
+    "cardTitle": "Coursera",
+    "cardText": "Online courses from universities and organizations around the world.",
+    "cardLink": "https://www.coursera.org/",
+    "cardCat": "other1",
+    "cardCat2": "tutorials"
+  },
+  {
+    "cardImgTop": "images/placeholder.jpg",
+    "cardTitle": "CreativeLive",
+    "cardText": "Live online classes in design, photography, and creative skills.",
+    "cardLink": "https://www.creativelive.com/",
+    "cardCat": "other1",
+    "cardCat2": "tutorials"
+  },
+  {
+    "cardImgTop": "images/placeholder.jpg",
+    "cardTitle": "Pluralsight",
+    "cardText": "Technology-focused design tutorials and courses.",
+    "cardLink": "https://www.pluralsight.com/",
+    "cardCat": "other1",
+    "cardCat2": "tutorials"
+  },
+  {
+    "cardImgTop": "images/placeholder.jpg",
+    "cardTitle": "Digital Tutors",
+    "cardText": "Design tutorials and training for digital artists.",
+    "cardLink": "https://www.digitaltutors.com/",
+    "cardCat": "other1",
+    "cardCat2": "tutorials"
+  },
+  {
+    "cardImgTop": "images/placeholder.jpg",
+    "cardTitle": "Smashing Magazine",
+    "cardText": "Articles and resources on web design and development.",
+    "cardLink": "https://www.smashingmagazine.com/",
+    "cardCat": "other1",
+    "cardCat2": "tutorials"
+  }
+]

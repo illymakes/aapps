@@ -1,41 +1,41 @@
 [
   {
-    "cardImgTop": "/images/img/adobe-creative-cloud.png",
+    "cardImgTop": "images/img/adobe-creative-cloud.png",
     "cardTitle": "Adobe Creative Cloud",
     "cardText": "Access Adobe's suite of graphic design tools.",
     "cardLink": "https://www.adobe.com/creativecloud.html",
     "cardCat": "cod1"
   },
   {
-    "cardImgTop": "/images/img/canva.png",
+    "cardImgTop": "images/img/canva.png",
     "cardTitle": "Canva",
     "cardText": "Graphic design platform with easy-to-use tools and templates.",
     "cardLink": "https://www.canva.com/",
     "cardCat": "cod1"
   },
   {
-    "cardImgTop": "/images/img/dribbble.png",
+    "cardImgTop": "images/img/dribbble.png",
     "cardTitle": "Dribbble",
     "cardText": "Show and tell for designers, including graphic designers.",
     "cardLink": "https://dribbble.com/illymakes",
     "cardCat": "cod1"
   },
   {
-    "cardImgTop": "/images/img/behance.png",
+    "cardImgTop": "images/img/behance.png",
     "cardTitle": "Behance",
     "cardText": "Platform by Adobe for showcasing creative work, including graphic design.",
     "cardLink": "https://www.behance.net/illymakes",
     "cardCat": "cod1"
   },
   {
-    "cardImgTop": "/images/img/designspiration.jpg",
+    "cardImgTop": "images/img/designspiration.jpg",
     "cardTitle": "Designspiration",
     "cardText": "Visual discovery and design inspiration platform.",
     "cardLink": "https://www.designspiration.com/",
     "cardCat": "cod1"
   },
   {
-    "cardImgTop": "/images/img/graphicburger.png",
+    "cardImgTop": "images/img/graphicburger.png",
     "cardTitle": "GraphicBurger",
     "cardText": "High-quality design resources and freebies.",
     "cardLink": "https://graphicburger.com/",
@@ -43,7 +43,7 @@
     "cardCat2": "graphic design"
   },
   {
-    "cardImgTop": "/images/img/the-noun-project.png",
+    "cardImgTop": "images/img/the-noun-project.png",
     "cardTitle": "The Noun Project",
     "cardText": "Icons for everything, supported by creators worldwide.",
     "cardLink": "https://thenounproject.com/",
@@ -51,7 +51,7 @@
     "cardCat2": "graphic design"
   },
   {
-    "cardImgTop": "/images/img/freepik.png",
+    "cardImgTop": "images/img/freepik.png",
     "cardTitle": "Freepik",
     "cardText": "Graphic resources, vectors, photos, and free PSD files.",
     "cardLink": "https://www.freepik.com/",
@@ -59,7 +59,7 @@
     "cardCat2": "graphic design"
   },
   {
-    "cardImgTop": "/images/img/graphicriver.png",
+    "cardImgTop": "images/img/graphicriver.png",
     "cardTitle": "GraphicRiver",
     "cardText": "Design templates, themes, and graphic assets.",
     "cardLink": "https://graphicriver.net/",
@@ -67,7 +67,7 @@
     "cardCat2": "graphic design"
   },
   {
-    "cardImgTop": "/images/img/vecteezy.jpg",
+    "cardImgTop": "images/img/vecteezy.jpg",
     "cardTitle": "Vecteezy",
     "cardText": "Vector art, stock photos, and graphics free for download.",
     "cardLink": "https://www.vecteezy.com/",
@@ -75,7 +75,7 @@
     "cardCat2": "graphic design"
   },
   {
-    "cardImgTop": "/images/img/pexels.png",
+    "cardImgTop": "images/img/pexels.png",
     "cardTitle": "Pexels",
     "cardText": "Free stock photos and videos for graphic design projects.",
     "cardLink": "https://www.pexels.com/",
@@ -83,7 +83,7 @@
     "cardCat2": "graphic design"
   },
   {
-    "cardImgTop": "/images/img/unsplash.png",
+    "cardImgTop": "images/img/unsplash.png",
     "cardTitle": "Unsplash",
     "cardText": "High-quality, free images for graphic design and more.",
     "cardLink": "https://unsplash.com/",
@@ -91,7 +91,7 @@
     "cardCat2": "graphic design"
   },
   {
-    "cardImgTop": "/images/img/color-hunt.png",
+    "cardImgTop": "images/img/color-hunt.png",
     "cardTitle": "Color Hunt",
     "cardText": "Curated color palettes for graphic designers.",
     "cardLink": "https://colorhunt.co/",
@@ -99,7 +99,7 @@
     "cardCat2": "graphic design"
   },
   {
-    "cardImgTop": "/images/img/tutsplus.png",
+    "cardImgTop": "images/img/tutsplus.png",
     "cardTitle": "Tuts+",
     "cardText": "Tutorials and courses for graphic design and illustration.",
     "cardLink": "https://design.tutsplus.com/",

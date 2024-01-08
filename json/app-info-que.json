@@ -1,137 +1,136 @@
 [
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "MDN Web Docs",
       "cardText": "Comprehensive documentation on web technologies.",
       "cardLink": "https://developer.mozilla.org/",
       "cardCat": "que1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "W3Schools",
       "cardText": "Web development tutorials and reference guides.",
       "cardLink": "https://www.w3schools.com/",
       "cardCat": "que1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "CSS-Tricks",
       "cardText": "Tips, tricks, and tutorials on CSS and front-end development.",
       "cardLink": "https://css-tricks.com/",
       "cardCat": "que1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "Smashing Magazine",
       "cardText": "Articles and resources on web design and development.",
       "cardLink": "https://www.smashingmagazine.com/",
       "cardCat": "que1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "GitHub",
       "cardText": "Platform for version control and collaborative development.",
       "cardLink": "https://github.com/",
       "cardCat": "que1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "Stack Overflow",
       "cardText": "Q&A community for programmers to ask and answer questions.",
       "cardLink": "https://stackoverflow.com/",
       "cardCat": "que1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "CodePen",
       "cardText": "Social development environment for front-end developers.",
       "cardLink": "https://codepen.io/",
       "cardCat": "que1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "Frontend Masters",
       "cardText": "Online learning platform with in-depth front-end development courses.",
       "cardLink": "https://frontendmasters.com/",
       "cardCat": "que1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "FreeCodeCamp",
       "cardText": "Interactive coding challenges and certifications for web development.",
       "cardLink": "https://www.freecodecamp.org/",
       "cardCat": "que1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "A List Apart",
       "cardText": "Exploring the design, development, and meaning of web content.",
       "cardLink": "https://alistapart.com/",
       "cardCat": "que1"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "MDBootstrap",
       "cardText": "Material Design for Bootstrap - UI Kits and themes.",
       "cardLink": "https://mdbootstrap.com/",
       "cardCat": "que1",
       "cardCat2": "front-end design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "Google Developers",
       "cardText": "Resources, guides, and tools from Google for web developers.",
       "cardLink": "https://developers.google.com/",
       "cardCat": "que1",
       "cardCat2": "front-end design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "Dev.to",
       "cardText": "Community-based platform for programmers to share and learn.",
       "cardLink": "https://dev.to/",
       "cardCat": "que1",
       "cardCat2": "front-end design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "Scotch.io",
       "cardText": "Tutorials and articles on modern web development.",
       "cardLink": "https://scotch.io/",
       "cardCat": "que1",
       "cardCat2": "front-end design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "Babel",
       "cardText": "JavaScript compiler that helps you use the latest ECMAScript features.",
       "cardLink": "https://babeljs.io/",
       "cardCat": "que1",
       "cardCat2": "front-end design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "Mozilla MDN",
       "cardText": "Documentation and learning resources for web developers.",
       "cardLink": "https://developer.mozilla.org/",
       "cardCat": "que1",
       "cardCat2": "front-end design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "The Net Ninja",
       "cardText": "YouTube channel with tutorials on web development and programming.",
       "cardLink": "https://netninja.dev/",
       "cardCat": "que1",
       "cardCat2": "front-end design"
-    },
-    {
-      "cardImgTop": "/images/placeholder.jpg",
+  },
+  {
+      "cardImgTop": "images/placeholder.jpg",
       "cardTitle": "Web.dev",
       "cardText": "Google's resource for modern web development best practices.",
       "cardLink": "https://web.dev/",
       "cardCat": "que1",
       "cardCat2": "front-end design"
-    }
-  ]
-  
+  }
+]

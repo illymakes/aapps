@@ -1,6 +1,6 @@
 [
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "IDEO",
         "cardText": "Global design and innovation company with a focus on human-centered design.",
         "cardLink": "https://www.ideo.com/",
@@ -8,7 +8,7 @@
         "cardCat2": "design thinking"
     },
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "Stanford d.school",
         "cardText": "Stanford University's Hasso Plattner Institute of Design, a pioneer in design thinking education.",
         "cardLink": "https://dschool.stanford.edu/",
@@ -16,7 +16,7 @@
         "cardCat2": "design thinking"
     },
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "Design Thinking",
         "cardText": "A comprehensive guide on Design Thinking by Interaction Design Foundation.",
         "cardLink": "https://www.interaction-design.org/literature/article/design-thinking-understand-improve-apply",
@@ -24,7 +24,7 @@
         "cardCat2": "design thinking"
     },
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "Nielsen Norman Group",
         "cardText": "Leaders in the user experience field, offering insights and resources on design thinking.",
         "cardLink": "https://www.nngroup.com/",
@@ -32,7 +32,7 @@
         "cardCat2": "design thinking"
     },
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "The Design Sprint",
         "cardText": "A methodology for solving big problems and testing new ideas in just five days.",
         "cardLink": "https://www.thesprintbook.com/",
@@ -40,7 +40,7 @@
         "cardCat2": "design thinking"
     },
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "Design Thinking Articles",
         "cardText": "Harvard Business Review's collection of articles on design thinking.",
         "cardLink": "https://hbr.org/topic/design-thinking",
@@ -48,7 +48,7 @@
         "cardCat2": "design thinking"
     },
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "LUMA Institute",
         "cardText": "Human-centered design methods and resources.",
         "cardLink": "https://www.luma-institute.com/",
@@ -56,7 +56,7 @@
         "cardCat2": "design thinking"
     },
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "IBM Design Thinking",
         "cardText": "A framework for applying design thinking at the scale of the enterprise.",
         "cardLink": "https://www.ibm.com/design/thinking/",
@@ -64,7 +64,7 @@
         "cardCat2": "design thinking"
     },
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "IDEO U",
         "cardText": "Online courses in design thinking and creative leadership.",
         "cardLink": "https://www.ideou.com/",
@@ -72,7 +72,7 @@
         "cardCat2": "design thinking"
     },
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "Design Kit",
         "cardText": "IDEO's platform for learning and applying human-centered design.",
         "cardLink": "https://www.designkit.org/",
@@ -80,7 +80,7 @@
         "cardCat2": "design thinking"
     },
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "Design Thinking at SAP",
         "cardText": "Resources and insights on design thinking from SAP.",
         "cardLink": "https://www.experience.sap.com/designservices/design-thinking/",
@@ -88,7 +88,7 @@
         "cardCat2": "design thinking"
     },
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "A Manual for Innovation",
         "cardText": "Book by Tim Brown, CEO of IDEO, on design thinking principles and practices.",
         "cardLink": "https://www.amazon.com/Design-Thinking-Manual-Innovation-ebook/dp/B00IJ3Q1S6",
@@ -96,7 +96,7 @@
         "cardCat2": "design thinking"
     },
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "Change by Design",
         "cardText": "Book by Tim Brown on how design thinking transforms organizations and inspires innovation.",
         "cardLink": "https://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089",
@@ -104,11 +104,11 @@
         "cardCat2": "design thinking"
     },
     {
-        "cardImgTop": "/images/placeholder.jpg",
+        "cardImgTop": "images/placeholder.jpg",
         "cardTitle": "Design Sprint by GV",
         "cardText": "Google Ventures' guide to running design sprints for product development.",
         "cardLink": "https://www.gv.com/sprint/",
         "cardCat": "compl1",
-        "cardCat2": "design thinking"
+        "cardCat2": "design"
     }
 ]
